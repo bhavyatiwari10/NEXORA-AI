@@ -2,11 +2,6 @@
 
 ### Conversational Business Intelligence • CRM Automation • LLM Evaluation
 
-> **A unified AI platform that transforms unstructured customer conversations into structured business intelligence, automated CRM workflows and actionable analytics.**
-
-**Academic Framing:**  
-*A Unified User-Centric Evaluation Framework for Large Language Models in Conversational Visual Analytics*
-
 <p align="center">
 
   <a href="https://nexora-ai-g4d6.onrender.com/">
@@ -26,53 +21,78 @@
   <img src="https://img.shields.io/badge/LLM-MockLLM%20%7C%20OpenAI%20%7C%20Anthropic-7C3AED?style=flat-square">
   <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-336791?style=flat-square">
   <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/License-Academic%20%2F%20Portfolio-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white">
+
+</p>
+
+<p align="center">
+
+  <b>Transform conversations into structured business intelligence.</b>
 
 </p>
 
 ---
 
-## 🌐 Live Demo
+# 🌐 Live Application
 
-### **NEXORA AI — Conversational Intelligence Platform**
+### 🚀 NEXORA AI — Conversational Intelligence Platform
 
-🔗 **Live Dashboard:**  
+**Live Dashboard:**  
 https://nexora-ai-g4d6.onrender.com/
 
-🔗 **GitHub Repository:**  
+**GitHub Repository:**  
 https://github.com/bhavyatiwari10/NEXORA-AI
 
-> **Demo Mode:** NEXORA uses a deterministic offline `MockLLM` by default, allowing the complete extraction and analytics workflow to run without an external LLM API key.
+**Backend API:**  
+https://nexora-ai-backend-cyd6.onrender.com/
+
+**API Documentation:**  
+https://nexora-ai-backend-cyd6.onrender.com/docs
+
+> **Demo Mode:** NEXORA uses a deterministic `MockLLM` by default, allowing the complete extraction and analytics workflow to run without an external LLM API key.
 
 ---
 
 # 🧠 What is NEXORA AI?
 
-NEXORA AI is a full-stack AI/NLP platform designed to convert **unstructured customer conversations** from WhatsApp / Instagram / Telegram-style channels into structured CRM and business intelligence.
+NEXORA AI transforms WhatsApp / Instagram / Telegram-style conversations into structured customer and business data.
 
-Instead of forcing users to manually enter customer information, NEXORA understands conversational messages, extracts meaningful business entities, validates them, and turns them into actionable workflows.
+It combines an explainable LLM extraction pipeline, CRM automation, order operations, GST invoicing, simulated payments, follow-ups, analytics and a research-grade evaluation module.
 
-### The core idea:
+> **Academic framing:**  
+> **A Unified User-Centric Evaluation Framework for Large Language Models in Conversational Visual Analytics**
+
+NEXORA is designed as a modern AI SaaS experience rather than a traditional CRUD admin panel. The dashboard surfaces signals first, then lets the user drill into conversations, customers, orders, finance, follow-ups, visual analytics and model evaluation.
+
+---
+
+# 🎯 Product Vision
+
+## **Chat → Understand → Validate → Act → Measure**
+
+NEXORA is built around the idea that businesses already receive valuable information through customer conversations, but much of that information remains unstructured.
+
+Instead of requiring employees to manually convert conversations into CRM records, NEXORA performs the transformation automatically.
 
 ```text
-💬 Customer Chat
-       ↓
+💬 Customer Conversation
+          ↓
 🧠 AI Understanding
-       ↓
-📋 Structured Data
-       ↓
+          ↓
+📋 Structured Business Data
+          ↓
 ✅ Validation
-       ↓
+          ↓
 👤 CRM / Customer 360
-       ↓
+          ↓
 🛒 Order Creation
-       ↓
+          ↓
 🧾 GST Invoice
-       ↓
+          ↓
 💳 Payment Simulation
-       ↓
+          ↓
 🔔 Follow-up Automation
-       ↓
+          ↓
 📊 Business Analytics
-       ↓
+          ↓
 🧪 LLM Evaluation
