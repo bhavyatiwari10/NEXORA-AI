@@ -1,0 +1,282 @@
+[
+  {
+    "id": "gold-001",
+    "text": "bhai 2 kg basmati rice chahiye",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-002",
+    "text": "Payment done \u20b91398 via UPI",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-003",
+    "text": "Please cancel and refund my order",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-004",
+    "text": "call me tomorrow please",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-005",
+    "text": "Need coffee price",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-006",
+    "text": "bhai 2 kg basmati rice chahiye #6",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-007",
+    "text": "Payment done \u20b91398 via UPI #7",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-008",
+    "text": "Please cancel and refund my order #8",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-009",
+    "text": "call me tomorrow please #9",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-010",
+    "text": "Need coffee price #10",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-011",
+    "text": "bhai 2 kg basmati rice chahiye #11",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-012",
+    "text": "Payment done \u20b91398 via UPI #12",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-013",
+    "text": "Please cancel and refund my order #13",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-014",
+    "text": "call me tomorrow please #14",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-015",
+    "text": "Need coffee price #15",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-016",
+    "text": "bhai 2 kg basmati rice chahiye #16",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-017",
+    "text": "Payment done \u20b91398 via UPI #17",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-018",
+    "text": "Please cancel and refund my order #18",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-019",
+    "text": "call me tomorrow please #19",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-020",
+    "text": "Need coffee price #20",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-021",
+    "text": "bhai 2 kg basmati rice chahiye #21",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-022",
+    "text": "Payment done \u20b91398 via UPI #22",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-023",
+    "text": "Please cancel and refund my order #23",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-024",
+    "text": "call me tomorrow please #24",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-025",
+    "text": "Need coffee price #25",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-026",
+    "text": "bhai 2 kg basmati rice chahiye #26",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-027",
+    "text": "Payment done \u20b91398 via UPI #27",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-028",
+    "text": "Please cancel and refund my order #28",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-029",
+    "text": "call me tomorrow please #29",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-030",
+    "text": "Need coffee price #30",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-031",
+    "text": "bhai 2 kg basmati rice chahiye #31",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-032",
+    "text": "Payment done \u20b91398 via UPI #32",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-033",
+    "text": "Please cancel and refund my order #33",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-034",
+    "text": "call me tomorrow please #34",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-035",
+    "text": "Need coffee price #35",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-036",
+    "text": "bhai 2 kg basmati rice chahiye #36",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-037",
+    "text": "Payment done \u20b91398 via UPI #37",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-038",
+    "text": "Please cancel and refund my order #38",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-039",
+    "text": "call me tomorrow please #39",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-040",
+    "text": "Need coffee price #40",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-041",
+    "text": "bhai 2 kg basmati rice chahiye #41",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-042",
+    "text": "Payment done \u20b91398 via UPI #42",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-043",
+    "text": "Please cancel and refund my order #43",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-044",
+    "text": "call me tomorrow please #44",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-045",
+    "text": "Need coffee price #45",
+    "intent": "inquiry"
+  },
+  {
+    "id": "gold-046",
+    "text": "bhai 2 kg basmati rice chahiye #46",
+    "intent": "order",
+    "product": "basmati rice",
+    "quantity": 2
+  },
+  {
+    "id": "gold-047",
+    "text": "Payment done \u20b91398 via UPI #47",
+    "intent": "payment",
+    "payment_status": "paid"
+  },
+  {
+    "id": "gold-048",
+    "text": "Please cancel and refund my order #48",
+    "intent": "cancellation"
+  },
+  {
+    "id": "gold-049",
+    "text": "call me tomorrow please #49",
+    "intent": "follow-up"
+  },
+  {
+    "id": "gold-050",
+    "text": "Need coffee price #50",
+    "intent": "inquiry"
+  }
+]

@@ -1,0 +1,9 @@
+from abc import ABC, abstractmethod
+from app.schemas.dto import ExtractionPayload
+class LLMProvider(ABC):
+    @abstractmethod
+    def extract(self,text:str)->ExtractionPayload: ...
+    @abstractmethod
+    def generate_reply(self,text:str,language:str='English')->str: ...
+    @abstractmethod
+    def query_spec(self,question:str): ...
